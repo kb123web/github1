@@ -26,3 +26,4 @@ python app.py
 ```powershell
 conda run -n live_sales_agent pytest -q
 ```
+本项目已完成首次 GitHub 上传。
